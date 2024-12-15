@@ -7,5 +7,5 @@ DOMAIN-SUFFIX,steamcontent.com
 # DOMAIN-KEYWORD
 
 # GEOSITE
-GEOSITE,cn
-GEOSITE,geolocation-cn
+# GEOSITE,cn
+# GEOSITE,geolocation-cn
