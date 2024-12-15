@@ -1,0 +1,11 @@
+# 内容：imc自定义ads列表
+
+# DOMAIN-SUFFIX
+
+# DOMAIN-KEYWORD
+
+# GEOSITE
+GEOSITE,adobe
+GEOSITE,adobe-activation
+GEOSITE,adobe-ads
+GEOSITE,category-ads-all
