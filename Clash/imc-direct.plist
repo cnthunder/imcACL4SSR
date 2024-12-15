@@ -1,0 +1,11 @@
+# 内容：imc自定义direct列表
+
+# DOMAIN-SUFFIX
+DOMAIN-SUFFIX,sino-bridge.com
+DOMAIN-SUFFIX,steamcontent.com
+
+# DOMAIN-KEYWORD
+
+# GEOSITE
+GEOSITE,cn
+GEOSITE,geolocation-cn
