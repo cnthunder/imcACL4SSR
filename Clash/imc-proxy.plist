@@ -3,6 +3,12 @@
 # DOMAIN-SUFFIX
 DOMAIN-SUFFIX,download.qnap.com
 DOMAIN-SUFFIX,nexusmods.com
+DOMAIN-SUFFIX,altstore.io
+DOMAIN-SUFFIX,garmin.com
+DOMAIN-SUFFIX,gofile.io
+DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,tunnelbroker.net
 
 # DOMAIN-KEYWORD
 DOMAIN-KEYWORD,tktn
