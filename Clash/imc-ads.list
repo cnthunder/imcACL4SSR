@@ -1,11 +1,11 @@
 # 内容：imc自定义ads列表
 
 # DOMAIN-SUFFIX
-
+DOMAIN-SUFFIX,practivate.adobe.com
 # DOMAIN-KEYWORD
 
 # GEOSITE
-GEOSITE,adobe
-GEOSITE,adobe-activation
-GEOSITE,adobe-ads
-GEOSITE,category-ads-all
+#GEOSITE,adobe
+#GEOSITE,adobe-activation
+#GEOSITE,adobe-ads
+#GEOSITE,category-ads-all
