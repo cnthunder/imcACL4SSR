@@ -1,0 +1,12 @@
+# 内容：imc自定义proxy列表
+
+# DOMAIN-SUFFIX
+DOMAIN-SUFFIX,download.qnap.com
+DOMAIN-SUFFIX,nexusmods.com
+
+# DOMAIN-KEYWORD
+DOMAIN-KEYWORD,tktn
+DOMAIN-KEYWORD,talkatone
+
+# GEOSITE
+GEOSITE,qnap
