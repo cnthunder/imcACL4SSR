@@ -13,6 +13,9 @@ DOMAIN-SUFFIX,askgeek.io
 DOMAIN-SUFFIX,cpu-monkey.com
 DOMAIN-SUFFIX,archthrones.com
 DOMAIN-SUFFIX,matchmaking.archthrones.com
+DOMAIN-SUFFIX,ollama.com
+DOMAIN-SUFFIX,cloudflarestorage.com
+DOMAIN-SUFFIX,fromsoftware-game.net
 
 # DOMAIN-KEYWORD
 DOMAIN-KEYWORD,tktn
