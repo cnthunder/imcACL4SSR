@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,ollama.com
 DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,fromsoftware-game.net
 DOMAIN-SUFFIX,amazfitwatchfaces.com
+DOMAIN-SUFFIX,docker.com
 
 # talkatone相关
 # 以下规则必须走代理
